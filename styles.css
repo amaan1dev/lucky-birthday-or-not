@@ -1,0 +1,21 @@
+
+h1{
+    text-align: center;
+}
+
+input{
+    display: block;
+    /* margin: auto; */
+}
+input,
+label{
+    display: block;
+}
+
+
+.container{
+    border: 2px solid red;
+    width: 40%;
+    margin: auto;
+    
+}
